@@ -60,6 +60,7 @@
 }
 
 .header__logo-image {
+  margin-left: 10px;
   height: 105px;
 }
 
@@ -177,6 +178,10 @@
   min-height: 450px;
   background-repeat: no-repeat;
   background-size: contain;
+}
+
+.card-link {
+  text-decoration: none;
 }
 
 .card_type_film {
